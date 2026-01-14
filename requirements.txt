@@ -5,3 +5,7 @@ numpy
 scikit-learn
 xgboost
 fastapi
+openpyxl
+statsmodels
+prophet
+torch
